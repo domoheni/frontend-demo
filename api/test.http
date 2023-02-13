@@ -1,0 +1,2 @@
+GET https://baconipsum.com/api/?type=all-meat&paras=2&start-with-lorem=1 HTTP/1.1
+content-type: application/json
